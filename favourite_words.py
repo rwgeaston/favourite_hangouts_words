@@ -1,40 +1,50 @@
 # -*- coding: utf-8 -*-
-import sys
 from json import loads
+import codecs
 
 from hangouts_parser import get_word_counts
-from relative_popularity import find_relative_most_popular, format_common_words
-from constants import my_name, word_count_to_be_an_interesting_person
-
-source = 'C:/Users/robeeast/Documents/Scripts/favourite_words/Hangouts.json'
-
-with open(source) as logs_file:
-    logs_txt = logs_file.read()
-
-all_chats = loads(logs_txt)
-
-# This has two keys [u'continuation_end_timestamp', u'conversation_state']
-# all_chats['conversation_state'] is a list of conversations
+from facebook_parser import facebook_get_all_word_counts
+from relative_popularity import find_relative_most_popular, format_common_words, combine_counts
+from constants import my_name, word_count_to_be_an_interesting_person, hangouts_source, facebook_source
 
 word_counts = {}
 
-for chat in all_chats[u'conversation_state']:
-    should_keep, participants, word_counts_this_chat = get_word_counts(chat['conversation_state'])
-    if should_keep:
-        word_counts[participants] = word_counts_this_chat
+if hangouts_source:
+    with codecs.open(hangouts_source, encoding='utf-8') as logs_file:
+        logs_txt = logs_file.read()
 
-del chat
-del all_chats
+    all_chats = loads(logs_txt)
+    del logs_txt
 
+    # This has two keys [u'continuation_end_timestamp', u'conversation_state']
+    # all_chats['conversation_state'] is a list of conversations
 
-def combine_counts(reference_counts):
-    combined = {}
-    for word_count in reference_counts:
-        for word, count in word_count.iteritems():
-            if word not in combined:
-                combined[word] = 0
-            combined[word] += count
-    return combined
+    for chat in all_chats[u'conversation_state']:
+        should_keep, participants, word_counts_this_chat = get_word_counts(chat['conversation_state'])
+        if should_keep:
+            word_counts[participants] = word_counts_this_chat
+
+    del chat
+    del all_chats
+
+if facebook_source:
+    with codecs.open(facebook_source, encoding='utf-8') as logs_file:
+        facebook_logs_txt = logs_file.read()
+
+    more_word_counts = facebook_get_all_word_counts(facebook_logs_txt)
+    del facebook_logs_txt
+
+    for chat, counts in more_word_counts.iteritems():
+        if chat in word_counts:
+            for name, count in counts.iteritems():
+                if name in word_counts[chat]:
+                    word_counts[chat][name] = combine_counts([word_counts[chat][name], count])
+                else:
+                    word_counts[chat][name] = count
+        else:
+            word_counts[chat] = counts
+
+    del more_word_counts
 
 me = []
 others = []
@@ -60,7 +70,7 @@ def write(string):
 def display_most_popular(word_counts, reference_counts):
     write(format_common_words(
         find_relative_most_popular(word_counts, reference_counts)
-    ).encode(sys.stdout.encoding, errors='replace'))
+    ))
 
 
 def total_size(conversation):

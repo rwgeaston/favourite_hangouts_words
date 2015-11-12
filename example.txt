@@ -1,59 +1,68 @@
 Words I say more often than my friends.
-"who've" (inf), "vtss" (inf), "tss" (inf), "thnig" (inf), "somethnig" (inf), "sherries" (inf), "secondly" (inf), "rupees" (inf), "robert@poisson" (inf), "relatedly" (inf), "nov" (inf), "mcfly" (inf), "maker's" (inf), "littlerob>" (inf), "leaderboard" (inf), "kling" (inf), "japshow" (inf), "headstart" (inf), "h323" (inf), "glendronach" (inf), "firstly" (inf), "elesse's" (inf), "convey" (inf), "contradicts" (inf), "christina's" (inf), "can?t" (inf), "brightness" (inf), "bandita" (inf), "arun" (inf), "anythnig" (inf), "aka" (inf), "8:30" (inf), "4:30" (inf), "12:30" (inf), "10:30" (inf)
+"who've" (inf), "tss" (inf), "rwge>" (inf), "rupees" (inf), "maker's" (inf), "littlerob>" (inf), "kling" (inf), "japshow" (inf), "headstart" (inf), "h323" (inf), "glendronach" (inf), "firstly" (inf), "4:30" (inf), "10:30" (inf), "tom's" 132.0, "soumya" 46.5, "mph" 44.9, "ales" 44.0, "earns" 40.5, "h265" 40.0, "convey" 39.0, "ezra" 38.0, "bpm" 36.0, "rikk" 34.5, "master's" 34.0
 
 Words they say more often.
-"??" (inf), "wouldnt" (inf), "would've" (inf), "wasnt" (inf), "unsure" (inf), "tses" (inf), "tho" (inf), "shouldnt" (inf), "ppl" (inf), "ohhh" (inf), "ohh" (inf), "modafanil" (inf), "ive" (inf), "idk" (inf), "htem" (inf), "hte" (inf), "hehe" (inf), "hahahaha" (inf), "gather" (inf), "fb" (inf), "erm" (inf), "coz" (inf), "couldnt" (inf), "aww" (inf), "as_df>" (inf), "arent" (inf), "anyways" (inf), "ahhh" (inf), "ahh" (inf), "-p" (inf), "-(" (inf), "hahaha" 289.0, "didnt" 130.5, "cos" 118.0, "err" 105.0
-
-Words I say more often to Alexander Rapp than they say to me.
-"um" (inf), "sirisha" (inf), "rikk" (inf), "oops" (inf), "ob" (inf), "littlerob" (inf), "leon" (inf), "kling" (inf), "infosys" (inf), "earns" (inf), "cope" (inf), "chosen" (inf), "boss^4" (inf), "boss^3" (inf), "arnold" (inf), "annoys" (inf), "although" 275.0, "pm)" 142.0, "uma" 120.0, "whilst" 93.0, "entire" 61.0, "am)" 58.0, "jess" 46.0, "winni" 43.0, "repeatedly" 41.0, "whisky" 40.0, "guessed" 39.0, "andy" 38.7, "topics" 37.0, "cousin" 36.0, "unfortunately" 34.0, "noah" 33.0, "modafinil" 32.7, "langley" 31.0, "camera" 30.0
-
-Words Alexander Rapp says more often to me.
-"yup" (inf), "umm" (inf), "modafanil" (inf), "janet" (inf), "err" (inf), "as_df>" (inf), "<<" (inf), "ugh" 62.0, "somebody" 58.8, "eh" 45.5, "anybody" 42.0, "lately" 29.0, "okay" 27.6, "everybody" 26.6, "<kmc>" 22.0, "occasionally" 15.5, "anymore" 15.0, "gotten" 10.6, "tanzania" 10.5, "indeed" 10.4, "kinda" 10.3, "heh" 9.5, "haha" 8.0, "nobody" 7.3, "noted" 7.0, "cathy" 6.6, "lexande" 6.3, "uh" 6.0, "iowa" 5.8, "amanda" 5.1, "due" 4.8, "palantir" 4.6, "etc" 4.6, "nah" 4.5, "nyc" 4.2
-
-Words I say more often to Alexander Rapp than I say in general.
-"utility" 1.0, "tgs" 1.0, "siskind's" 1.0, "proles" 1.0, "ppp" 1.0, "poly" 1.0, "ozy" 1.0, "obnyc" 1.0, "unattractive" 0.9, "uber" 0.9, "tumblr" 0.9, "trans" 0.9, "siskind" 0.9, "sexual" 0.9, "rikk" 0.9, "r/okcupid" 0.9, "privilege" 0.9, "partners" 0.9, "marginal" 0.9, "cowen" 0.9, "contrarian" 0.9, "cis" 0.9, "cadiz" 0.9, "bubble" 0.9, "attractiveness" 0.9, "yglesias" 0.8, "visitors" 0.8, "tyler" 0.8, "sumner" 0.8, "stereotypes" 0.8, "signalling" 0.8, "sex" 0.8, "scheme" 0.8, "romantic" 0.8, "relationships" 0.8
-
-Words I say more often to Heather Gardiner than they say to me.
-"they're" 20.7, "every" 12.3, "issue" 12.0, "guys" 12.0, "david" 11.3, "terrible" 11.0, "kind" 10.2, "anyone" 9.5, "alex" 8.4, "fast" 7.8, "easily" 7.0, "andy" 6.7, "slough" 6.3, "barbi" 6.3, "sense" 6.2, "uma" 6.0, "average" 6.0, "everything" 5.6, "fine" 5.3, "mostly" 5.0, "worse" 4.9, "ealing" 4.8, "each" 4.7, "although" 4.7, "useful" 4.6, "team" 4.6, "since" 4.5, "might" 4.5, "until" 4.3, "ride" 4.2, "bad" 4.1, "gym" 4.0, "minutes" 3.9, "lot" 3.9, "women" 3.8
-
-Words Heather Gardiner says more often to me.
-"tho" (inf), "okay" (inf), "fb" (inf), "cos" (inf), "-" 68.4, "allotment" 27.0, "x" 25.5, "holly" 10.0, "mum" 6.4, "thanks" 6.0, "tonight" 5.8, "list" 4.4, "ah" 4.2, "bed" 4.1, "free" 3.7, "you'd" 3.6, "whether" 3.6, "link" 3.5, "laptop" 3.4, "feeling" 3.4, "visit" 3.3, "norwich" 3.3, "meant" 3.1, "sort" 3.0, "sent" 3.0, "norfolk" 3.0, "hope" 2.9, "afternoon" 2.8, "may" 2.7, "rather" 2.6, "hear" 2.6, "check" 2.6, "must" 2.5, "interesting" 2.5, "meeting" 2.4
-
-Words I say more often to Heather Gardiner than I say in general.
-"goodnight" 0.4, "andrew" 0.3, "bill" 0.2, "you're" 0.1, "yesterday" 0.1, "yes" 0.1, "women" 0.1, "whisky" 0.1, "were" 0.1, "weight" 0.1, "weekend" 0.1, "water" 0.1, "wasn't" 0.1, "very" 0.1, "unless" 0.1, "train" 0.1, "today" 0.1, "terrible" 0.1, "suspect" 0.1, "stopped" 0.1, "station" 0.1, "spend" 0.1, "space" 0.1, "south" 0.1, "sounds" 0.1, "slough" 0.1, "silly" 0.1, "saw" 0.1, "room" 0.1, "road" 0.1, "ride" 0.1, "poor" 0.1, "picture" 0.1, "photos" 0.1, "phone" 0.1
+"would've" (inf), "tho" (inf), "rook" (inf), "ppl" (inf), "ohhh" (inf), "ohh" (inf), "idk" (inf), "hehe" (inf), "hahahaha" (inf), "hahah" (inf), "gather" (inf), "fb" (inf), "erm" (inf), "coz" (inf), "aww" (inf), "anyways" (inf), "ahh" (inf), "-p" (inf), "hahaha" 587.0, "cos" 127.0, "err" 111.0, ":)" 96.6, "ya" 75.0, "okay" 75.0, "lately" 68.0
 
 Words I say more often to Gemma Stockton than they say to me.
-"ok" (inf), "cycled" (inf), "medium" 32.0, "uma" 21.0, "gonna" 15.5, "we're" 8.6, "team" 7.7, "choose" 7.7, "i've" 7.5, "spoons" 7.3, "he's" 7.2, "she's" 7.1, "fact" 7.0, "songs" 6.5, "how's" 5.9, "human" 5.8, "they're" 5.7, "i'll" 5.7, "andy" 5.6, "haven't" 5.2, "gym" 5.0, "bobs" 5.0, "cycling" 4.8, "beer" 4.6, "option" 4.5, "tom" 4.4, "housing" 4.4, "it's" 3.9, "photos" 3.7, "space" 3.4, "pootle" 3.4, "barbi" 3.4, "what's" 3.2, "women" 3.1, "office" 3.1
+"ok" (inf), "medium" 32.0, "uma" 21.0, "gonna" 15.5, "we're" 8.6, "team" 7.7, "i've" 7.6, "he's" 7.2, "she's" 7.1, "songs" 6.5, "how's" 5.9, "they're" 5.7, "i'll" 5.7, "andy" 5.6, "haven't" 5.2, "bobs" 5.0, "cycling" 4.8, "option" 4.5, "tom" 4.4, "it's" 3.9, "pootle" 3.4, "barbi" 3.4, "what's" 3.2, "cycle" 3.1, "there's" 3.0
 
 Words Gemma Stockton says more often to me.
-"shall" (inf), "okay" (inf), "nobody" (inf), "mat" (inf), "anymore" (inf), "pupils" 33.0, "marking" 30.0, "learnt" 23.0, "ruth" 22.0, "lucy" 15.7, "dear" 15.5, "cake" 12.0, "(" 10.4, "meant" 10.0, "lesson" 8.2, "am" 7.9, "ich" 7.8, "pick" 7.7, "lessons" 7.2, "thank" 7.0, "realised" 7.0, "proof" 6.8, "wrexham" 6.5, "cooking" 6.0, "swimming" 5.9, "dizzy" 5.3, "bedtime" 5.3, "miss" 4.7, "clever" 4.6, "washing" 4.5, "pictures" 4.4, "shopping" 4.1, "sarah" 4.1, "please" 4.0, "nexus" 3.8
+"okay" (inf), "anymore" (inf), "pupils" 33.0, "marking" 30.0, "lucy" 15.7, "dear" 15.5, "cake" 12.0, ":(" 10.3, "meant" 10.2, "lesson" 8.2, "am" 7.9, "ich" 7.8, "lessons" 7.2, "thank" 7.0, "realised" 7.0, "proof" 6.8, "wrexham" 6.5, "cooking" 6.0, "swimming" 5.9, "miss" 4.7, "washing" 4.5, "pictures" 4.4, "shopping" 4.1, "sarah" 4.1, "please" 4.0
 
 Words I say more often to Gemma Stockton than I say in general.
-"pootle" 1.0, "bobs" 1.0, "sleepy" 0.9, "heather" 0.8, "bye" 0.8, "bunny" 0.8, "tasty" 0.7, "medium" 0.7, "how's" 0.7, "hi" 0.7, "friend" 0.7, "oops" 0.6, "vegetarian" 0.5, "sorry" 0.5, "cat" 0.5, "wish" 0.4, "vegan" 0.4, "teacher" 0.4, "southall" 0.4, "sad" 0.4, "quite" 0.4, "paddington" 0.4, "nice" 0.4, "lib" 0.4, "goodnight" 0.4, "enjoy" 0.4, "bits" 0.4, "baby" 0.4, "sugar" 0.3, "songs" 0.3, "sometimes" 0.3, "oh" 0.3, "nap" 0.3, "hungry" 0.3, "hope" 0.3
-
-Words I say more often to Thomas Walton than they say to me.
-"?_?" (inf), "y" (inf), "tss" (inf), "schedule" (inf), "mum" (inf), "meh" (inf), "h265" (inf), "grade" (inf), "gonna" (inf), "devs" (inf), "bah" (inf), "1)" (inf), "(1" (inf), "kind" 86.0, "although" 81.0, "mph" 53.0, "perhaps" 50.5, "soumya" 28.5, "kyle" 25.0, "terrible" 24.0, "uh" 23.0, "gemma" 23.0, "salary" 22.0, "dev" 22.0, "yours" 21.0, "reproduce" 21.0, "waterloo" 20.0, "am)" 17.5, "andy" 16.3, "robert" 13.0, "dunno" 13.0, "lane" 12.5, "conversation" 12.5, "j" 12.0, "assigned" 11.5
-
-Words Thomas Walton says more often to me.
-"no-one" (inf), "admittedly" (inf), ";)" (inf), "indeed" 83.5, "haha" 25.8, "ah" 8.8, "ha" 7.9, "hmm" 5.6, "ouch" 5.2, "dear" 4.7, "normally" 4.3, "picture" 4.2, "zero" 4.0, "particularly" 4.0, "fair" 4.0, "odd" 3.8, "unlikely" 3.7, ")" 3.7, "totally" 3.5, "latest" 3.5, "cim" 3.5, "cts" 3.1, "complicated" 3.0, "ages" 3.0, "reckon" 2.8, "quite" 2.8, "due" 2.6, "(" 2.6, "you'll" 2.5, "unfortunately" 2.5, "true" 2.5, "dodgy" 2.4, "conductor" 2.4, "basically" 2.4, "slightly" 2.2
-
-Words I say more often to Thomas Walton than I say in general.
-"aj" 0.9, "lisp" 0.8, "bluebox" 0.8, "#" 0.8, "returned" 0.7, "reserved" 0.7, "reservation" 0.7, "multistream" 0.7, "folder" 0.7, "clustering" 0.7, "blank" 0.7, "bisect" 0.7, "tss" 0.6, "soumya" 0.6, "skydolphin" 0.6, "reservations" 0.6, "reruns" 0.6, "participant" 0.6, "overlord" 0.6, "nico" 0.6, "lm" 0.6, "ip" 0.6, "invalid" 0.6, "h265" 0.6, "encryption" 0.6, "centos" 0.6, "builds" 0.6, "arvinda" 0.6, "13.5" 0.6, "wowbagger" 0.5, "vts" 0.5, "varnita" 0.5, "sip" 0.5, "runs" 0.5, "reproduce" 0.5
+"pootle" 1.0, "bobs" 1.0, "sleepy" 0.9, "heather" 0.8, "bye" 0.8, "medium" 0.7, "friend" 0.7, "tasty" 0.6, "oops" 0.6, "how's" 0.6, "hi" 0.6, "vegetarian" 0.5, "sorry" 0.5, "cat" 0.5, "wish" 0.4, "southall" 0.4, "quite" 0.4, "lib" 0.4, "goodnight" 0.4, "enjoy" 0.4, "bits" 0.4, "baby" 0.4, "teacher" 0.3, "songs" 0.3, "sometimes" 0.3
 
 Words I say more often to Kyle Bock than they say to me.
-"whiskies" (inf), "whilst" (inf), "urgh" (inf), "uh" (inf), "tools" (inf), "tom's" (inf), "thankfully" (inf), "ten" (inf), "suddenly" (inf), "standing" (inf), "someone's" (inf), "sirisha's" (inf), "several" (inf), "rise" (inf), "replied" (inf), "realised" (inf), "realise" (inf), "practise" (inf), "pm)" (inf), "phoned" (inf), "overtook" (inf), "oops" (inf), "maker's" (inf), "littlerob" (inf), "let's" (inf), "javier" (inf), "japshow" (inf), "i.e" (inf), "heh" (inf), "gah" (inf), "flavour" (inf), "favourite" (inf), "favour" (inf), "eventually" (inf), "dunno" (inf)
+"whiskies" (inf), "whilst" (inf), "tools" (inf), "tom's" (inf), "suddenly" (inf), "standing" (inf), "sirisha's" (inf), "several" (inf), "rise" (inf), "replied" (inf), "realised" (inf), "realise" (inf), "practise" (inf), "oops" (inf), "javier" (inf), "japshow" (inf), "i.e" (inf), "heh" (inf), "favourite" (inf), "favour" (inf), "dunno" (inf), "deliberately" (inf), "damned" (inf), "customers" (inf), "curry" (inf)
 
 Words Kyle Bock says more often to me.
-"would've" (inf), "wont" (inf), "til" (inf), "that'd" (inf), "realized" (inf), "realize" (inf), "ohhh" (inf), "ohh" (inf), "mom" (inf), "lately" (inf), "idk" (inf), "htem" (inf), "hte" (inf), "htat" (inf), "hahahaha" (inf), "hahaha" (inf), "gotten" (inf), "goto" (inf), "figured" (inf), "bucks" (inf), "bout" (inf), "becuase" (inf), "anyways" (inf), "ahve" (inf), "ahhh" (inf), "ahh" (inf), "indeed" 82.0, "lovely" 60.0, "thats" 39.5, "haha" 31.4, "delicious" 23.0, "movie" 20.5, "yup" 14.7, "gotta" 12.5, "jesus" 12.0
+"would've" (inf), "that'd" (inf), "ohhh" (inf), "ohh" (inf), "idk" (inf), "htat" (inf), "hahahaha" (inf), "hahaha" (inf), "gotten" (inf), "goto" (inf), "figured" (inf), "bout" (inf), "becuase" (inf), "ahh" (inf), "indeed" 86.0, "lovely" 66.0, "haha" 29.3, "movie" 15.3, "yup" 14.6, "gotta" 13.5, "ik" 9.7, "jesus" 9.5, "sir" 9.4, "afternoon" 5.6, "favorite" 5.4
 
 Words I say more often to Kyle Bock than I say in general.
-"titanfall" 1.0, "repo" 0.9, "maker's" 0.9, "eagle" 0.9, "dlc" 0.9, "brewery" 0.9, "bourbon" 0.9, "beam" 0.9, "yup" 0.8, "xbox" 0.8, "tyrion" 0.8, "trace" 0.8, "spotify" 0.8, "scotch" 0.8, "kd" 0.8, "japshow" 0.8, "ipa" 0.8, "humidity" 0.8, "expansion" 0.8, "cask" 0.8, "borderlands" 0.8, "boobs" 0.8, "bitch" 0.8, "beers" 0.8, "ale" 0.8, "whiskey" 0.7, "unlocks" 0.7, "ton" 0.7, "tbh" 0.7, "skyline" 0.7, "dude" 0.7, "damn" 0.7, "beer" 0.7, "apartment" 0.7, "ales" 0.7
+"repo" 0.9, "eagle" 0.9, "beam" 0.9, "scotch" 0.8, "kd" 0.8, "japshow" 0.8, "ipa" 0.8, "humidity" 0.8, "cask" 0.8, "brewery" 0.8, "bourbon" 0.8, "borderlands" 0.8, "boobs" 0.8, "bitch" 0.8, "ale" 0.8, "yup" 0.7, "whiskey" 0.7, "ton" 0.7, "spotify" 0.7, "skyline" 0.7, "pint" 0.7, "dude" 0.7, "damn" 0.7, "beers" 0.7, "apartment" 0.7
 
 Words I say more often to Andrew Jarvis than they say to me.
-"?_?" (inf), "yvain" (inf), "yudkowsky" (inf), "woop" (inf), "visa" (inf), "varnita" (inf), "urgh" (inf), "um" (inf), "tom's" (inf), "today's" (inf), "they'll" (inf), "therefore" (inf), "there's" (inf), "stronger" (inf), "soumya" (inf), "someone's" (inf), "smarter" (inf), "she'll" (inf), "she'd" (inf), "sarah" (inf), "psychology" (inf), "proportion" (inf), "pound" (inf), "people's" (inf), "mum's" (inf), "meetup" (inf), "latter" (inf), "kyle's" (inf), "kg" (inf), "he'd" (inf), "halfway" (inf), "granted" (inf), "five" (inf), "explicitly" (inf), "exists" (inf)
+"yvain" (inf), "yudkowsky" (inf), "urgh" (inf), "um" (inf), "tom's" (inf), "today's" (inf), "they'll" (inf), "therefore" (inf), "there's" (inf), "soumya" (inf), "she'll" (inf), "she'd" (inf), "sarah" (inf), "psychology" (inf), "proportion" (inf), "people's" (inf), "latter" (inf), "kyle's" (inf), "kg" (inf), "halfway" (inf), "granted" (inf), "five" (inf), "exists" (inf), "enthusiastic" (inf), "boyfriend" (inf)
 
 Words Andrew Jarvis says more often to me.
-"wouldnt" (inf), "wont" (inf), "wasnt" (inf), "ive" (inf), "hehe" (inf), "havent" (inf), "hasnt" (inf), "gather" (inf), "erm" (inf), "er" (inf), "eek" (inf), "doesnt" (inf), "couldnt" (inf), "cos" (inf), "aww" (inf), "arent" (inf), "thats" 411.0, "im" 332.0, "didnt" 225.0, "dont" 139.7, "isnt" 104.0, "indeed" 87.0, "whats" 64.0, "cant" 50.7, ")" 37.2, "kinda" 37.0, "yup" 23.3, "gotta" 23.0, "ugh" 22.0, "kirstens" 22.0, "id" 22.0, "lol" 19.8, "thus" 14.0, "woo" 9.5, "soo" 8.3
+"hehe" (inf), "erm" (inf), "er" (inf), "cos" (inf), "aww" (inf), ":)" 110.5, "indeed" 87.0, "kinda" 37.5, "yup" 23.3, "id" 22.0, "lol" 19.8, "thus" 14.0, "woo" 9.5, "ah" 7.9, "min" 7.3, "haha" 6.8, "figure" 6.4, "its" 5.5, "info" 5.4, "ha" 5.2, "ooh" 5.0, "kirsten" 4.9, "yay" 4.8, "mondeo" 4.8, "epic" 4.0
 
 Words I say more often to Andrew Jarvis than I say in general.
-"luciano" 0.9, "flux" 0.9, "csco" 0.9, "gabriel" 0.8, "furs" 0.8, "ftse" 0.8, "encoder" 0.8, "blackfriars" 0.8, "4.1" 0.8, "13.1" 0.8, "woop" 0.7, "solar" 0.7, "raw" 0.7, "packet" 0.7, "pacing" 0.7, "interop" 0.7, "frames" 0.7, "delorean" 0.7, "cosmin" 0.7, "clips" 0.7, "chapter" 0.7, "arthur" 0.7, "360p" 0.7, "watts" 0.6, "vy" 0.6, "sandy" 0.6, "requests" 0.6, "released" 0.6, "pses" 0.6, "pse" 0.6, "protein" 0.6, "phabricator" 0.6, "pbt" 0.6, "paulin" 0.6, "oil" 0.6
+"ftse" 0.8, "encoder" 0.8, "blackfriars" 0.8, "13.1" 0.8, "packet" 0.7, "pacing" 0.7, "interop" 0.7, "cosmin" 0.7, "chapter" 0.7, "arthur" 0.7, "360p" 0.7, "watts" 0.6, "vy" 0.6, "released" 0.6, "raw" 0.6, "pses" 0.6, "pse" 0.6, "phabricator" 0.6, "paulin" 0.6, "nle" 0.6, "martha" 0.6, "mars" 0.6, "marika" 0.6, "kg" 0.6, "harris" 0.6
+
+Words I say more often to Heather Gardiner than they say to me.
+"they're" 20.7, "every" 12.3, "david" 11.3, "kind" 10.2, "anyone" 9.5, "alex" 8.6, "fast" 8.0, "andy" 6.7, "sense" 6.2, "uma" 6.0, "average" 6.0, "everything" 5.6, "fine" 5.3, "worse" 5.0, "mostly" 5.0, "ealing" 4.8, "team" 4.7, "each" 4.7, "although" 4.7, "since" 4.6, "might" 4.5, "bad" 4.1, "gym" 4.0, "until" 3.9, "minutes" 3.9
+
+Words Heather Gardiner says more often to me.
+"tho" (inf), "okay" (inf), "fb" (inf), "cos" (inf), "-" 68.9, "allotment" 27.0, "x" 25.5, "holly" 10.0, "mum" 6.8, "tonight" 5.8, "bed" 4.1, "free" 3.7, "you'd" 3.6, "whether" 3.6, "link" 3.5, "laptop" 3.4, "feeling" 3.4, "visit" 3.3, "norwich" 3.3, "sort" 3.0, "sent" 3.0, "hope" 2.9, "may" 2.7, "rather" 2.6, "check" 2.6
+
+Words I say more often to Heather Gardiner than I say in general.
+"goodnight" 0.4, "yes" 0.1, "were" 0.1, "wasn't" 0.1, "very" 0.1, "train" 0.1, "spend" 0.1, "room" 0.1, "road" 0.1, "photos" 0.1, "phone" 0.1, "park" 0.1, "myself" 0.1, "miles" 0.1, "men" 0.1, "maths" 0.1, "looks" 0.1, "late" 0.1, "high" 0.1, "hand" 0.1, "few" 0.1, "faster" 0.1, "fast" 0.1, "expect" 0.1, "evening" 0.1
+
+Words I say more often to Alexander Rapp than they say to me.
+"um" (inf), "sirisha" (inf), "rikk" (inf), "oops" (inf), "infosys" (inf), "earns" (inf), "chosen" (inf), "although" 288.0, "uma" 120.0, "whilst" 93.0, "entire" 61.0, "jess" 46.0, "winni" 44.0, "repeatedly" 41.0, "whisky" 40.0, "guessed" 40.0, "andy" 38.9, "pm" 37.3, "topics" 37.0, "cousin" 36.0, "unfortunately" 34.0, "noah" 33.0, "langley" 31.0, "94" 31.0, "camera" 30.0
+
+Words Alexander Rapp says more often to me.
+"umm" (inf), "err" (inf), "ugh" 62.0, "somebody" 59.0, "eh" 45.5, "anybody" 42.0, "lately" 31.0, "okay" 27.8, "everybody" 26.8, "occasionally" 15.5, "anymore" 15.0, "indeed" 10.6, "gotten" 10.6, "kinda" 10.3, ":P" 9.8, "heh" 9.5, "haha" 8.0, "nobody" 7.3, "cathy" 6.6, "uh" 6.1, "iowa" 6.0, "amanda" 5.1, "etc" 4.9, "due" 4.8, "palantir" 4.6
+
+Words I say more often to Alexander Rapp than I say in general.
+"tgs" 1.0, "siskind's" 1.0, "proles" 1.0, "poly" 1.0, "obnyc" 1.0, "utility" 0.9, "unattractive" 0.9, "uber" 0.9, "siskind" 0.9, "r/okcupid" 0.9, "privilege" 0.9, "ppp" 0.9, "marginal" 0.9, "cowen" 0.9, "contrarian" 0.9, "cis" 0.9, "cadiz" 0.9, "bubble" 0.9, "attractiveness" 0.9, "yglesias" 0.8, "visitors" 0.8, "tumblr" 0.8, "trans" 0.8, "sumner" 0.8, "signalling" 0.8
+
+Words I say more often to Elesse Eddy than they say to me.
+"robert" (inf), "pm" (inf), "ok" (inf), "ianp" (inf), "<" (inf), "says" 24.5, "team" 9.8, "rwge" 8.7, "littlerob" 6.8, "gemma" 6.8, "andy" 5.7, "said" 5.3, "again" 4.9, "asked" 4.8, "went" 4.6, "alex" 4.6, "anyone" 4.5, "put" 4.4, "any" 4.3, "start" 4.2, "someone" 4.2, "once" 4.2, "person" 4.0, "ask" 4.0, "yet" 3.8
+
+Words Elesse Eddy says more often to me.
+"lol" (inf), "hahahaha" (inf), "hahaha" (inf), ":)" (inf), "--" (inf), "okay" 66.0, "haha" 40.8, "ugh" 22.5, "true" 7.0, "ah" 5.6, "yay" 5.5, "yup" 5.2, "amazing" 4.9, "makes" 3.3, "love" 3.2, "super" 3.0, "nice" 2.8, "sounds" 2.6, "quite" 2.5, "that's" 2.3, "very" 2.1, "stupid" 2.1, "good" 2.0, "oh" 1.8, "least" 1.8
+
+Words I say more often to Elesse Eddy than I say in general.
+"ianp" 0.5, "rwge" 0.3, "littlerob" 0.3, "<" 0.3, "watching" 0.1, "robert" 0.1, "pm" 0.1, "mother" 0.1, "love" 0.1, "ha" 0.1, "great" 0.1, "fair" 0.1, "episode" 0.1, "book" 0.1, "alex" 0.1
+
+Words I say more often to Thomas Walton than they say to me.
+"y" (inf), "h265" (inf), "grade" (inf), "gonna" (inf), "bah" (inf), "kind" 86.0, "although" 85.0, "mph" 54.0, "perhaps" 50.5, "soumya" 28.5, "terrible" 24.0, "waterloo" 20.0, "andy" 16.4, "robert" 13.0, "dunno" 13.0, "investigate" 11.0, "varnita" 10.8, "sufficient" 10.7, "delorean" 10.7, "issue" 10.2, "priority" 10.0, "emailed" 10.0, "large" 9.6, "lisp" 9.3, "front" 9.3
+
+Words Thomas Walton says more often to me.
+"no-one" (inf), ";" (inf), "indeed" 83.5, "haha" 25.8, "ah" 8.8, "ha" 7.9, "hmm" 5.6, "ouch" 5.2, "dear" 4.7, "normally" 4.3, "particularly" 4.0, "fair" 4.0, "odd" 3.8, "unlikely" 3.7, "latest" 3.5, "cim" 3.5, "cts" 3.1, "ages" 3.1, ":(" 3.0, "quite" 2.8, "due" 2.6, "you'll" 2.5, "unfortunately" 2.5, "true" 2.5, "dodgy" 2.4
+
+Words I say more often to Thomas Walton than I say in general.
+"aj" 0.9, "lisp" 0.8, "returned" 0.7, "reservation" 0.7, "multistream" 0.7, "h265" 0.7, "folder" 0.7, "soumya" 0.6, "reservations" 0.6, "reruns" 0.6, "participant" 0.6, "nico" 0.6, "lm" 0.6, "ip" 0.6, "encryption" 0.6, "centos" 0.6, "builds" 0.6, "wowbagger" 0.5, "vts" 0.5, "varnita" 0.5, "sip" 0.5, "runs" 0.5, "reboot" 0.5, "rally" 0.5, "ipv6" 0.5

@@ -1,5 +1,6 @@
 from copy import copy
 from constants import hardcoded_participants, name_mapping, my_name
+from word_cleanup import cleanup_word
 
 
 def unsafe_get(dictionary, element):
@@ -53,11 +54,10 @@ def get_word_counts(chat_log):
 
 def update_word_counts(current_word_counts, new_message):
     for word in new_message.split():
-        insensitive = word.lower()
-        insensitive = insensitive.strip(',.?:"')
-        if insensitive not in current_word_counts:
-            current_word_counts[insensitive] = 0
-        current_word_counts[insensitive] += 1
+        word = cleanup_word(word)
+        if word not in current_word_counts:
+            current_word_counts[word] = 0
+        current_word_counts[word] += 1
 
 
 def get_participant_mapping(chat_log):
